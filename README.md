@@ -24,7 +24,7 @@ The interface is intuitive and beginner-friendly — perfect for users who want 
 ## 🖥️ Screenshot (Optional)
 
 > ![ZipFile](ZipFile.png)
-> ![ZipFile Successfull](ZipFile Sucessfull.png)
+> ![ZipFile Successfull](ZipFileSucessfull.png)
 
 ## 🧪 How to Use
 
